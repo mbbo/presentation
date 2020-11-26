@@ -1,8 +1,20 @@
-Elasticsearch
-25 Novembre 2020
+# Elasticsearch
 
 Mehdi Boissat-Bron
+26 Novembre 2020
 mbbolive@gmail.com
 
-*  Slide 1 Title
-Test slide 1
+## Summary
+- Introduction
+- Stock Market
+
+## Introduction
+- Started in 2010 Shay Banon
+- Search engine based on the Lucene library
+- Open source for main product / EE Support monitoring security etc.
+- Developed in JAVA
+
+## Stock Market
+- Elastic NV was founded in 2012
+- First found rising of 10 millions de dollars, then 24 millions in 2013 et 70 millions en 2014
+- IPO 2018 / NYSE Symbol : ESTC
