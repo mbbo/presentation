@@ -98,6 +98,8 @@ whitespace, keyword, language ou custom
     - http://localhost:9201/testing-001/_search?q=firstname:John
     - Full-Text Search queries passent par une phase d’analyse, comprend
       le mapping pour trouver le document
+    - Term-Base search queries ne passent pas par une phase d’analyse,
+      utilisées pour retourner un match avec un term exact
 
 ## Query
 ## Full-text search queries
