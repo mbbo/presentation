@@ -53,6 +53,8 @@ _doc
 - Tokenizers : divise le texte en token
 - Token filters : pour normaliser les tokens (lowercase par exemple)
 
+## Fonctionnement (Schema)
+
 ## Equivalent relational -> ELS
 - Databases -> Indices
 - Tables -> Types
