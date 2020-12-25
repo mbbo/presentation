@@ -76,10 +76,6 @@ whitespace, keyword, language ou custom
     - Ajout de deux documents dans l’index
     - Update un document dans l’index
 
-## Change
-- Changing a default analyzer
-- Putting Custom analyzer to action
-
 ## Mapping
 - What is mapping
 - How to specify mapping
