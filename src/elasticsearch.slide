@@ -38,7 +38,7 @@ https://www.elastic.co/fr/pricing/
 - http://localhost:9201/
 - http://localhost:9201/_search?pretty
 
-## Fonctionnement
+## Fonctionnement (Equivalent)
 - Relational vs Elasticsearch :
 - Databases → Index
 - Tables → Type
@@ -47,6 +47,8 @@ https://www.elastic.co/fr/pricing/
 
 A partir de la version 6/7 les types sont tout le temps
 _doc
+
+## Fonctionnement (Schema)
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
