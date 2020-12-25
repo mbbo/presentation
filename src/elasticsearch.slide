@@ -63,7 +63,11 @@ whitespace, keyword, language ou custom
   - Standard, lowercase et stop filters
 
 ## Fonctionnement (Schema)
-- <insert here a schema of analyzer>
+- insert here a schema of analyzer
+
+## Fonctionnement (Schema)
+- Inverted Index
+    - I hate when spiders sit on the wall and act like they pay rent
 
 ## Document Analysis
 - Add schéma
