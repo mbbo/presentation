@@ -62,12 +62,6 @@ whitespace, keyword, language ou custom
   - Standard tokenizer
   - Standard, lowercase et stop filters
 
-## Equivalent relational -> ELS
-- Databases -> Indices
-- Tables -> Types
-- Rows -> Documents
-- Columns -> Fields
-
 ## Document Analysis
 - Add schéma
 - Character Filters
