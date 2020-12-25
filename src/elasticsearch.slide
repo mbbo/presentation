@@ -112,11 +112,13 @@ whitespace, keyword, language ou custom
     - query string
 
 ## Query (Term Based Search)
-- Term query
-- Terms query
-- Range query
-- Exist query
-- Missing Query
+- Demo Postman :
+- Les principales dans cette catégorie
+    - Term query
+    - Terms query
+    - Range query
+    - Exist query
+    - Missing Query
 
 ## Compound quiries
 - Bool
