@@ -91,6 +91,8 @@ whitespace, keyword, language ou custom
     - Post d’un document avec un mapping correct/incorrect
     - Delete des indexes
 
+## Query (DSL)
+
 ## Query
 ## Full-text search queries
 - match all
