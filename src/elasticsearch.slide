@@ -76,13 +76,6 @@ whitespace, keyword, language ou custom
     - Ajout de deux documents dans l’index
     - Update un document dans l’index
 
-## Analyser
-## List
-- Standard analyzer
-- Simple Analyzer
-- Whitespace analyzer
-- Keyword analyzer
-
 ## Change
 - Changing a default analyzer
 - Putting Custom analyzer to action
