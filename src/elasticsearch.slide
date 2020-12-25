@@ -73,6 +73,7 @@ whitespace, keyword, language ou custom
 ## Fonctionnement (Demo)
 - Postman (CRUD)
     - Création d’un index testing
+    - Ajout de deux documents dans l’index
 
 ## Analyser
 ## List
