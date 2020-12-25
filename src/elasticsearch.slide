@@ -35,6 +35,7 @@ https://www.elastic.co/fr/pricing/
 - Stack locale :
 dcm up -d log-elasticsearch
 - Consulter ES :
+http://localhost:9201/
 
 ## How it works
 ## Installation
