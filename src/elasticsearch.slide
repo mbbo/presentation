@@ -84,6 +84,8 @@ whitespace, keyword, language ou custom
     de créer en premier lieu l’index et d’update un mapping ensuite
     - Il est également possible d’update un index avec un fichier json
 
+## Mapping (Demo)
+
 ## Query
 ## Full-text search queries
 - match all
