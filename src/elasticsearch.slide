@@ -43,6 +43,7 @@ https://www.elastic.co/fr/pricing/
 - Databases → Index
 - Tables → Type
 - Rows → Documents
+- Columns → Fields
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
