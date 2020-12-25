@@ -59,6 +59,7 @@ _doc
 whitespace, keyword, language ou custom
 - Standard Analyzer :
   - Par defaut
+  - Standard tokenizer
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
