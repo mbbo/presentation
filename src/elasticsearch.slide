@@ -34,6 +34,7 @@ https://www.elastic.co/fr/pricing/
 ## Installation
 - Stack locale :
 dcm up -d log-elasticsearch
+- Consulter ES :
 
 ## How it works
 ## Installation
