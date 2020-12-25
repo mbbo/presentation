@@ -51,6 +51,7 @@ _doc
 ## Fonctionnement (Schema)
 - Char filters : clean comme elever les balises HTML
 - Tokenizers : divise le texte en token
+- Token filters : pour normaliser les tokens (lowercase par exemple)
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
