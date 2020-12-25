@@ -1,0 +1,135 @@
+# Elasticsearch
+
+Mehdi Boissat-Bron
+30 Novembre 2020
+mbbolive@gmail.com
+
+## Sommaire
+- Introduction
+- Entreprise
+- Installation
+- Fonctionnement
+- Mapping
+- Query
+- What's Next
+- Conclusion
+
+## Introduction
+- Contexte :
+Débuter en 2010 par Shay Banon
+Open source pour le produit principal
+EE Support monitoring securité etc.
+- Technique :
+Moteur de recherche basé sur Apache Lucene
+Developpé en JAVA
+
+https://www.elastic.co/fr/pricing/
+
+## Entreprise
+- Création en 2012
+- Première levée de fond de 10 millions de dollars, puis
+24 millions en 2013 et 70 millions en 2014
+- IPO 2018 sur le NYSE / Symbol : ESTC
+
+## Installation
+- Stack locale :
+- dcm up -d log-elasticsearch
+- Consulter ES :
+- http://localhost:9201/
+- http://localhost:9201/_search?pretty
+
+## Fonctionnement (Equivalent)
+- Relational vs Elasticsearch :
+- Databases → Index
+- Tables → Type
+- Rows → Documents
+- Columns → Fields
+
+A partir de la version 6/7 les types sont tout le temps
+_doc
+
+## Fonctionnement (Schema)
+- Char filters : clean comme elever les balises HTML
+- Tokenizers : divise le texte en token
+- Token filters : pour normaliser les tokens (lowercase par exemple)
+
+## Fonctionnement (Schema)
+- Analyzer :
+- Il existe plusieurs types d’analyzer : standard, simple,
+whitespace, keyword, language ou custom
+- Standard Analyzer :
+  - Par defaut
+  - Standard tokenizer
+  - Standard, lowercase et stop filters
+
+## Fonctionnement (Schema)
+- insert here a schema of analyzer
+
+## Fonctionnement (Schema)
+- Inverted Index
+    - I hate when spiders sit on the wall and act like they pay rent
+    - I hate when spider just sit there
+
+## Fonctionnement (Demo)
+- Postman (CRUD)
+    - Création d’un index testing
+    - Ajout de deux documents dans l’index
+    - Update un document dans l’index
+
+## Mapping
+- Definition
+    - Un mapping est comme un schéma de base de données. Ca peut
+    être un string, integer, date etc.
+    - Il est possible de créer un index pendant la création de l’index ou bien
+    de créer en premier lieu l’index et d’update un mapping ensuite
+    - Il est également possible d’update un index avec un fichier json
+
+## Mapping (Demo)
+- Postman
+    - Création d’un index testing-002
+    - Update avec un mapping
+    - Post d’un document avec un mapping correct/incorrect
+    - Delete des indexes
+
+## Query (DSL)
+- Definition
+    - Query DSL est une interface JSON donnée par elasticsearch afin d'écrire
+      des requêtes dans le format JSON
+    - http://localhost:9201/testing-001/_search?q=firstname:John
+    - Full-Text Search queries passent par une phase d’analyse, comprend
+      le mapping pour trouver le document
+    - Term-Base search queries ne passent pas par une phase d’analyse,
+      utilisées pour retourner un match avec un term exact
+
+## Query (Full Text Search)
+- Demo Postman :
+- Les principales dans cette catégorie
+    - match all
+    - match
+    - match query
+    - phrase search
+    - multi match
+    - query string
+
+## Query (Term Based Search)
+- Demo Postman :
+- Les principales dans cette catégorie
+    - Term
+    - Terms
+    - Range
+    - Exist
+
+Il existe également les compound queries
+
+## What's next
+- Features :
+- Il existe d’autres aspects dans elasticsearch comme
+    - aggregation
+    - geo spatiality
+    - search and bulk operation
+    - backup, sécurité
+
+## Références
+
+- https://www.elastic.co/fr/
+- https://www.packtpub.com/product/elasticsearch-essentials/9781784391010
