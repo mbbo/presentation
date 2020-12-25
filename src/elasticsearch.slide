@@ -39,6 +39,7 @@ https://www.elastic.co/fr/pricing/
 - http://localhost:9201/_search?pretty
 
 ## Fonctionnement
+- Relational vs Elasticsearch :
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
