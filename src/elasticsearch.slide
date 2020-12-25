@@ -119,6 +119,8 @@ whitespace, keyword, language ou custom
     - Range
     - Exist
 
+Il existe également les compound queries
+
 ## Compound quiries
 - Bool
 - Not
