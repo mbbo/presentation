@@ -55,6 +55,8 @@ _doc
 
 ## Fonctionnement (Schema)
 - Analyzer :
+- Il existe plusieurs types d’analyzer : standard, simple,
+whitespace, keyword, language ou custom
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
