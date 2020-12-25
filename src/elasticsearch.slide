@@ -41,6 +41,7 @@ https://www.elastic.co/fr/pricing/
 ## Fonctionnement
 - Relational vs Elasticsearch :
 - Databases → Index
+- Tables → Type
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
