@@ -62,6 +62,9 @@ whitespace, keyword, language ou custom
   - Standard tokenizer
   - Standard, lowercase et stop filters
 
+## Fonctionnement (Schema)
+- <insert here a schema of analyzer>
+
 ## Document Analysis
 - Add schéma
 - Character Filters
