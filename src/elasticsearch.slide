@@ -78,6 +78,8 @@ whitespace, keyword, language ou custom
 
 ## Mapping
 - Definition
+    - Un mapping est comme un schéma de base de données. Ca peut
+    être un string, integer, date etc.
 
 ## Query
 ## Full-text search queries
