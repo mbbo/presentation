@@ -42,6 +42,7 @@ https://www.elastic.co/fr/pricing/
 - Relational vs Elasticsearch :
 - Databases → Index
 - Tables → Type
+- Rows → Documents
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
