@@ -111,7 +111,7 @@ whitespace, keyword, language ou custom
     - multi match
     - query string
 
-## Term-Based search query
+## Query (Term Based Search)
 - Term query
 - Terms query
 - Range query
