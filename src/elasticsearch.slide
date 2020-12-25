@@ -95,7 +95,7 @@ whitespace, keyword, language ou custom
 - Definition
     - Query DSL est une interface JSON donnée par elasticsearch afin d'écrire
       des requêtes dans le format JSON
-    -
+    - http://localhost:9201/testing-001/_search?q=firstname:John
 
 ## Query
 ## Full-text search queries
