@@ -102,12 +102,14 @@ whitespace, keyword, language ou custom
       utilisées pour retourner un match avec un term exact
 
 ## Query (Full Text Search)
-## Full-text search queries
-- match all
-- match query
-- phrase search
-- multi match
-- query string
+- Demo Postman :
+- Les principales dans cette catégorie
+    - match all
+    - match
+    - match query
+    - phrase search
+    - multi match
+    - query string
 
 ## Term-Based search query
 - Term query
