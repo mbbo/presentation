@@ -45,6 +45,9 @@ https://www.elastic.co/fr/pricing/
 - Rows → Documents
 - Columns → Fields
 
+A partir de la version 6/7 les types sont tout le temps
+_doc
+
 ## Equivalent relational -> ELS
 - Databases -> Indices
 - Tables -> Types
