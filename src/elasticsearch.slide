@@ -60,6 +60,7 @@ whitespace, keyword, language ou custom
 - Standard Analyzer :
   - Par defaut
   - Standard tokenizer
+  - Standard, lowercase et stop filters
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
