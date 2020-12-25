@@ -1,12 +1,18 @@
 # Elasticsearch
 
 Mehdi Boissat-Bron
-26 Novembre 2020
+30 Novembre 2020
 mbbolive@gmail.com
 
-## Summary
+## Sommaire
 - Introduction
-- Stock Market
+- Entreprise
+- Installation
+- Fonctionnement
+- Mapping
+- Query
+- What's Next
+- Conclusion
 
 ## Introduction
 - Started in 2010 Shay Banon
@@ -18,3 +24,61 @@ mbbolive@gmail.com
 - Elastic NV was founded in 2012
 - First found rising of 10 millions de dollars, then 24 millions in 2013 et 70 millions en 2014
 - IPO 2018 / NYSE Symbol : ESTC
+
+## How it works
+## Installation
+- dcm up -d elasticsearch
+
+## Equivalent relational -> ELS
+- Databases -> Indices
+- Tables -> Types
+- Rows -> Documents
+- Columns -> Fields
+
+## Document Analysis
+- Add schéma
+- Character Filters
+- Tokenizers
+- Token filters
+
+## Analyser
+## List
+- Standard analyzer
+- Simple Analyzer
+- Whitespace analyzer
+- Keyword analyzer
+
+## Change
+- Changing a default analyzer
+- Putting Custom analyzer to action
+
+## Mapping
+- What is mapping
+- How to specify mapping
+
+## Query
+## Full-text search queries
+- match all
+- match query
+- phrase search
+- multi match
+- query string
+
+## Term-Based search query
+- Term query
+- Terms query
+- Range query
+- Exist query
+- Missing Query
+
+## Compound quiries
+- Bool
+- Not
+
+## what's next
+- aggregation
+- geo spatiality
+- bulk insert update delete
+- nested / parent child
+- pagination
+
