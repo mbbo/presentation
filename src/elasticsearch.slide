@@ -77,8 +77,7 @@ whitespace, keyword, language ou custom
     - Update un document dans l’index
 
 ## Mapping
-- What is mapping
-- How to specify mapping
+- Definition
 
 ## Query
 ## Full-text search queries
