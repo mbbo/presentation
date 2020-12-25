@@ -85,6 +85,8 @@ whitespace, keyword, language ou custom
     - Il est également possible d’update un index avec un fichier json
 
 ## Mapping (Demo)
+- Postman
+    -  Création d’un index testing-002
 
 ## Query
 ## Full-text search queries
