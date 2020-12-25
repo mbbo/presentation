@@ -74,6 +74,7 @@ whitespace, keyword, language ou custom
 - Postman (CRUD)
     - Création d’un index testing
     - Ajout de deux documents dans l’index
+    - Update un document dans l’index
 
 ## Analyser
 ## List
