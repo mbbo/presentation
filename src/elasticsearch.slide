@@ -38,7 +38,6 @@ https://www.elastic.co/fr/pricing/
 - http://localhost:9201/
 - http://localhost:9201/_search?pretty
 
-## How it works
 ## Installation
 - dcm up -d elasticsearch
 
