@@ -82,6 +82,7 @@ whitespace, keyword, language ou custom
     être un string, integer, date etc.
     - Il est possible de créer un index pendant la création de l’index ou bien
     de créer en premier lieu l’index et d’update un mapping ensuite
+    - Il est également possible d’update un index avec un fichier json
 
 ## Query
 ## Full-text search queries
