@@ -15,10 +15,15 @@ mbbolive@gmail.com
 - Conclusion
 
 ## Introduction
-- Started in 2010 Shay Banon
-- Search engine based on the Lucene library
-- Open source for main product / EE Support monitoring security etc.
-- Developed in JAVA
+- Contexte :
+Débuter en 2010 par Shay Banon
+Open source pour le produit principal
+EE Support monitoring securité etc.
+- Technique :
+Moteur de recherche basé sur Apache Lucene
+Developpé en JAVA
+
+https://www.elastic.co/fr/pricing/
 
 ## Stock Market
 - Elastic NV was founded in 2012
