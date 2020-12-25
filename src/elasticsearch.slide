@@ -80,6 +80,8 @@ whitespace, keyword, language ou custom
 - Definition
     - Un mapping est comme un schéma de base de données. Ca peut
     être un string, integer, date etc.
+    - Il est possible de créer un index pendant la création de l’index ou bien
+    de créer en premier lieu l’index et d’update un mapping ensuite
 
 ## Query
 ## Full-text search queries
