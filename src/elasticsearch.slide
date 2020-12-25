@@ -121,14 +121,10 @@ whitespace, keyword, language ou custom
 
 Il existe également les compound queries
 
-## Compound quiries
-- Bool
-- Not
-
-## what's next
-- aggregation
-- geo spatiality
-- bulk insert update delete
-- nested / parent child
-- pagination
-
+## What's next
+- Features :
+- Il existe d’autres aspects dans elasticsearch comme
+    - aggregation
+    - geo spatiality
+    - search and bulk operation
+    - backup, sécurité
