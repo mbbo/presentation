@@ -88,6 +88,7 @@ whitespace, keyword, language ou custom
 - Postman
     - Création d’un index testing-002
     - Update avec un mapping
+    - Post d’un document avec un mapping correct/incorrect
 
 ## Query
 ## Full-text search queries
