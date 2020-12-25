@@ -128,3 +128,8 @@ Il existe également les compound queries
     - geo spatiality
     - search and bulk operation
     - backup, sécurité
+
+## Références
+
+- https://www.elastic.co/fr/
+- https://www.packtpub.com/product/elasticsearch-essentials/9781784391010
