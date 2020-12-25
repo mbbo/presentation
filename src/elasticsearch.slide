@@ -32,6 +32,8 @@ https://www.elastic.co/fr/pricing/
 - IPO 2018 sur le NYSE / Symbol : ESTC
 
 ## Installation
+- Stack locale :
+dcm up -d log-elasticsearch
 
 ## How it works
 ## Installation
