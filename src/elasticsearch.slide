@@ -101,7 +101,7 @@ whitespace, keyword, language ou custom
     - Term-Base search queries ne passent pas par une phase d’analyse,
       utilisées pour retourner un match avec un term exact
 
-## Query
+## Query (Full Text Search)
 ## Full-text search queries
 - match all
 - match query
