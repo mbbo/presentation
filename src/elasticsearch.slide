@@ -49,6 +49,7 @@ A partir de la version 6/7 les types sont tout le temps
 _doc
 
 ## Fonctionnement (Schema)
+- Char filters : clean comme elever les balises HTML
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
