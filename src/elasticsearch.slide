@@ -38,8 +38,6 @@ https://www.elastic.co/fr/pricing/
 - http://localhost:9201/
 - http://localhost:9201/_search?pretty
 
-- dcm up -d elasticsearch
-
 ## Equivalent relational -> ELS
 - Databases -> Indices
 - Tables -> Types
