@@ -57,6 +57,7 @@ _doc
 - Analyzer :
 - Il existe plusieurs types d’analyzer : standard, simple,
 whitespace, keyword, language ou custom
+- Standard Analyzer :
 
 ## Equivalent relational -> ELS
 - Databases -> Indices
